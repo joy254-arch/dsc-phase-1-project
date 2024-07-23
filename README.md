@@ -16,8 +16,8 @@ This project enables Microsoft to have a glimpse of the film industry market and
 
 ### The Data
 
-In the folder `IMDB Data' are movie datasets from:
-* [IMDB](https://www.imdb.com/) We used the titles, ratings and revenue data sets for analysis.
+In the folder `imdb data' we have datasets from:
+* [IMDB](https://www.imdb.com/) which have been used to extract the details on the genres, ratings and revenue in the market which we will use for correlation purposes. 
 
 ### Methods
 This project uses descriptive analysis and a lot of visualizations such as bar graphs, histograms and heatmaps.These give an overview of the popular movie genres and what genres fetch the highest revenue.
