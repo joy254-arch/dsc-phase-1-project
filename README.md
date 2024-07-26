@@ -1,8 +1,8 @@
+## MICROSOFT MOVIE STUDIO DATA ANALYSIS
 ![Windos 10 Azul](https://github.com/user-attachments/assets/967647ba-06ad-4b94-b008-eae2d4b07059)
 
 
 **Author:** Joy Rotich
-## DATA ANALYSIS OF THE MOVIE INDUSTRY FOR MICROSOFT 
 
 
 ### Business Problem
