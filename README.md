@@ -54,3 +54,8 @@ The analysis resulted in the following recommendation:
 
 3.The company should invest in movies that do well both in terms domestic and foreign gross.
 
+### for more information
+click the link below 
+https://colab.research.google.com/drive/1FVlzCpRcRfFsfBCMbUJrYzG7HnOx8MKm?usp=sharing
+
+
