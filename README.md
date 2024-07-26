@@ -45,7 +45,7 @@ The analysis resulted in the following recommendation:
 **For the domestic audience :** Focus more on producing  Action, Adventure, Sci-Fi since that is what yields the highest revenue in the domestic market.
 **For the foreign audience :** Focus more on producing a film with the genre combination of Adventure, Drama and Sport since that is what yields the highest revenue in the foreign market.
 **Based on what is most liked by the two markets:** Focus on producing more Adventure themed films.
-**Runtime has little impact on success in terms of revenue:** You are therefore have the flexibility of choosing the length of your filmns. You can focus on compelling story regardless of runtime
+**Runtime has little impact on success in terms of revenue:** You are therefore have the flexibility of choosing the length of your films. You can focus on compelling story regardless of runtime
 
 ### Results
 1.The company should invest in Action, Adventure, Sci-Fi and Adventure,Animation,Comedy since they do well both internationally and domestically.
